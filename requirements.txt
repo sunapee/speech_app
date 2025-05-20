@@ -1,0 +1,6 @@
+streamlit
+SpeechRecognition
+pydub
+numpy
+PyAudio
+wave
